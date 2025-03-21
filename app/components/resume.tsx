@@ -23,7 +23,7 @@ export default function AnimatedModalDemo() {
   };
 
   return (
-    <div className="fixed top-4 right-4 z-50">
+    <div className="flex justify-end items-end top-4 right-4 z-50">
       {/* Modal Trigger Button with Hover Effect */}
       <button
         onClick={() => setIsModalOpen(true)}

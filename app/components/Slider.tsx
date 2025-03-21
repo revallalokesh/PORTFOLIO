@@ -5,7 +5,7 @@ const demoData = {
     {
       id: "logo-1",
       description: "Java",
-      image: "/images/java.png",
+      image: "/images/Java.png",
       className: "h-7 w-auto text-white",
     },
     {
