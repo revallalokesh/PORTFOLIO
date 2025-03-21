@@ -134,7 +134,7 @@ export default function AnimatedModalDemo() {
                 Cancel
               </button>
               <a
-                href="/resume/ps_bharath_kumar_achari.pdf"
+                href="/resume/Lokesh Resume.pdf"
                 download
                 className="flex-none px-4 py-2 text-sm font-medium text-white bg-black dark:bg-white dark:text-black rounded-lg hover:bg-gray-900 dark:hover:bg-gray-100 transition-colors duration-200"
               >
