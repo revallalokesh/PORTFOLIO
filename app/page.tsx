@@ -18,7 +18,7 @@ export default function Home() {
     <div id="Skills">
       <Slider/>
     </div>
-    <div id="Projects"className="mt-10 ml-35 bg-black">
+    <div id="Projects"className="mt-10 ml-30 bg-black">
       <h1 className="flex justify-center font-bold text-white text-6xl">Projects</h1>
     <AnimatedPinGrid />
     </div>
