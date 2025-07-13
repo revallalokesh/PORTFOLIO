@@ -22,7 +22,7 @@ export default function Home() {
       <h1 className="flex justify-center font-bold text-white text-6xl">Projects</h1>
     <AnimatedPinGrid />
     </div>
-    <div id="Certificates" className="mt-50 bg-black">
+    <div id="Certificates" className="mt-140 bg-black">
       <h1 className="flex justify-center font-bold text-white text-6xl">Certificates</h1>
       <Certificates/>
     </div>
